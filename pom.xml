@@ -19,6 +19,7 @@
     <modules>
         <module>e-school-service-repository-es</module>
         <module>e-school-service-repository-redis</module>
+        <module>e-school-service-repository-mongo</module>
     </modules>
 
     <profiles>
