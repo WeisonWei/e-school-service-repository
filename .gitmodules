@@ -1,0 +1,3 @@
+[submodule "e-school-service-repository-es"]
+	path = e-school-service-repository-es
+	url = https://github.com/WeisonWei/e-school-service-repository-es.git

@@ -17,6 +17,7 @@
     <description>Parent project of e-school-service</description>
 
     <modules>
+        <module>e-school-service-repository-es</module>
     </modules>
 
     <profiles>
