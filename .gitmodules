@@ -1,3 +1,6 @@
 [submodule "e-school-service-repository-es"]
 	path = e-school-service-repository-es
 	url = https://github.com/WeisonWei/e-school-service-repository-es.git
+[submodule "e-school-service-repository-redis"]
+	path = e-school-service-repository-redis
+	url = https://github.com/WeisonWei/e-school-service-repository-redis.git
