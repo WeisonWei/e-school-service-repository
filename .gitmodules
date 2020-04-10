@@ -7,3 +7,6 @@
 [submodule "e-school-service-repository-mongo"]
 	path = e-school-service-repository-mongo
 	url = https://github.com/WeisonWei/e-school-service-repository-mongo.git
+[submodule "e-school-service-repository-es-jpa"]
+	path = e-school-service-repository-es-jpa
+	url = https://github.com/WeisonWei/e-school-service-repository-es-jpa.git

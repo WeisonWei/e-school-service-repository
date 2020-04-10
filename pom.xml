@@ -20,6 +20,7 @@
         <module>e-school-service-repository-es</module>
         <module>e-school-service-repository-redis</module>
         <module>e-school-service-repository-mongo</module>
+        <module>e-school-service-repository-es-jpa</module>
     </modules>
 
     <profiles>
